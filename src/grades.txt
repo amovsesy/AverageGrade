@@ -1,0 +1,6 @@
+Bush 50 70 75 80
+Clinton 85 90 95 98
+Gore 90 95 98 97
+Cheney 80 90 95 85
+Powell 90 95 85 99
+Lieberman 85 95 90 94
